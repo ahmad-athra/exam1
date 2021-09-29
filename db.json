@@ -1,9 +1,15 @@
-{
-    "Chart-lable":"Nixpend Chart",
-   "x-axis":[
-       "Jan", "Feb", "Mar", "Apr", "May"
-   ],
-   "y-axis":[
-       1,2,3,4,5
-   ]
+{   "ChartData":[
+    {
+        "Chart-lable":"Nixpend Chart",
+
+        "x-axis":[
+            "Jan", "Feb", "Mar", "Apr", "May"
+        ],
+        "y-axis":[
+            1,2,3,4,5
+        ],
+        "id":1
+    }
+]
+    
 }
