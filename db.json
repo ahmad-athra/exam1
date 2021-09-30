@@ -2,10 +2,10 @@
     {
         "Chart-lable":"Nixpend Chart",
 
-        "x-axis":[
+        "xaxis":[
             "Jan", "Feb", "Mar", "Apr", "May"
         ],
-        "y-axis":[
+        "yaxis":[
             1,2,3,4,5
         ],
         "id":1
